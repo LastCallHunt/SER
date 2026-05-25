@@ -1,0 +1,45 @@
+MIT License
+
+Copyright (c) 2026 T. Dilip Kumar, V. Ashish Sai Kumar, T. Pranay Goud
+B V Raju Institute of Technology, Narsapur, Medak District, Telangana, India
+
+Project: Noise-Robust Speech Emotion Recognition Using CNN-BiLSTM with
+Demucs-Based Noise Cancellation Preprocessing and Sliding Window Segmentation
+for Long-Form Audio
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Dataset Licenses (not covered by this MIT license):
+
+RAVDESS Dataset:
+  License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)
+  Source: https://zenodo.org/record/1188976
+  Citation: Livingstone SR, Russo FA (2018) The Ryerson Audio-Visual Database of
+  Emotional Speech and Song (RAVDESS). PLoS ONE 13(5): e0196391.
+
+TESS Dataset:
+  License: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0)
+  Source: https://tspace.library.utoronto.ca/handle/1807/24487
+
+Demucs:
+  License: MIT License
+  Source: https://github.com/facebookresearch/demucs
+  Copyright (c) Meta Platforms, Inc. and affiliates.

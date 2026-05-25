@@ -1,0 +1,89 @@
+# ── Python ─────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ── Jupyter Notebooks ──────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ── Audio / Dataset Files ──────────────────────────────────────────────────────
+# Large audio files — do NOT commit to GitHub
+*.wav
+*.mp3
+*.mp4
+*.flac
+*.ogg
+*.m4a
+*.aac
+
+# Dataset zip archives
+*.zip
+*.tar.gz
+*.tar
+ravdess/
+tess/
+toronto-emotional-speech-set-tess/
+ravdess-emotional-speech-audio/
+
+# ── Model Files ────────────────────────────────────────────────────────────────
+# Large model files — use Git LFS or link to Google Drive instead
+*.h5
+*.keras
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+my_bvr_cnn_bilstm.keras
+speech_emotion_model.keras
+
+# Exception: keep small config files
+!*.json
+
+# ── Kaggle API Key — NEVER commit this ────────────────────────────────────────
+kaggle.json
+.kaggle/
+
+# ── Google Colab / Drive ───────────────────────────────────────────────────────
+content/
+drive/
+cleaned_audio/
+
+# ── OS Files ───────────────────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ── IDE Files ──────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── Logs and Outputs ───────────────────────────────────────────────────────────
+logs/
+*.log
+outputs/
+results/
+figures/
+*.png
+*.jpg
+*.jpeg
+
+# Exception: keep documentation images in docs/ folder
+!docs/*.png
+!docs/*.jpg

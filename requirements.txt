@@ -1,0 +1,35 @@
+# Speech Emotion Recognition — Requirements
+# Install with: pip install -r requirements.txt
+# Note: This project runs on Google Colab. Most packages below are pre-installed.
+# Run: !pip install -r requirements.txt inside a Colab cell for any missing ones.
+
+# ── Core ML / Deep Learning ────────────────────────────────────────────────────
+tensorflow>=2.13.0
+keras>=2.13.0
+
+# ── Audio Processing ───────────────────────────────────────────────────────────
+librosa>=0.10.0
+soundfile>=0.12.1
+audioread>=3.0.0
+
+# ── Source Separation (Demucs) ─────────────────────────────────────────────────
+demucs>=4.0.0
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# ── Data Processing ────────────────────────────────────────────────────────────
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# ── Visualization ──────────────────────────────────────────────────────────────
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# ── Utilities ──────────────────────────────────────────────────────────────────
+tqdm>=4.65.0
+kaggle>=1.5.16
+
+# ── Jupyter / Colab ────────────────────────────────────────────────────────────
+ipython>=8.0.0
+ipywidgets>=8.0.0
