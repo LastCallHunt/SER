@@ -62,13 +62,13 @@ Raw Audio (any length)
 ```
 Speech-Emotion-Recognition-CNN-BiLSTM-Demucs/
 │
-├── semifinalproject.ipynb     # Main Google Colab notebook
-├── README.md                  # This file
-├── requirements.txt           # All dependencies
-├── PROJECT_DETAILS.md         # Deep technical dive
-├── setup_instructions.md      # How to run step by step
-├── .gitignore                 # Git ignore rules
-└── LICENSE                    # MIT License
+├── MLInterface.ipynb     # MAin project file
+├── README.md                  
+├── requirements.txt           
+├── PROJECT_DETAILS.md         
+├── setup_instructions.md      
+├── .gitignore                 
+└── LICENSE                    
 ```
 
 ---
