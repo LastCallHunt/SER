@@ -236,18 +236,6 @@ print("Model loaded successfully")
 
 ---
 
-## 👥 Team
-
-| Name | Roll Number | Institution |
-|---|---|---|
-| T. Dilip Kumar | 24211A05KJ | BVRIT, Narsapur |
-| V. Ashish Sai Kumar | 24211A05KR | BVRIT, Narsapur |
-| T. Pranay Goud | 24211A05NY | BVRIT, Narsapur |
-
-**Guide:** Dr. Ayesha Naureen, Assistant Professor, CSE, BVRIT
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
