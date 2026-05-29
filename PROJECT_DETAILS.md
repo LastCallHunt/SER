@@ -303,15 +303,6 @@ model = load_model('/content/my_bvr_cnn_bilstm.keras')
 
 ---
 
-## 9. Academic Context
-
-**Institution:** B V Raju Institute of Technology (BVRIT), Narsapur  
-**Department:** Computer Science and Engineering  
-**Academic Year:** 2025–2026  
-**Project Type:** Minor Project  
-**Team ID:** 24IIS16  
-**Guide:** Dr. Ayesha Naureen, Assistant Professor, CSE
-
 **Base Paper:**  
 Tiwari, S., Kumar, D., Mahajan, A., and Sachar, S. "Emotion Detection from Speech Using
 CNN-BiLSTM with Feature Rich Audio Inputs." ICCK Transactions on Machine Intelligence,
